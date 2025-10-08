@@ -1,0 +1,10 @@
+# gcc
+*
+!*.*
+!*/
+
+# macos
+.DS_store
+
+# gcc
+*.exe
