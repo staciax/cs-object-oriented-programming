@@ -15,7 +15,7 @@ Each folder represents a different topic we covered in class, containing hands-o
 7. [**Multiple Inheritance**](07-multiple-inheritance/)
 8. [**Operator Overloading**](08-operator-overloading/)
 9. [**Other Member Functions**](09-other-member-functions/)
-10. [**Polymorphism and Virtual Functions**](10-polymorphism-and-virtual-function/)
+10. [**Polymorphism and Virtual Functions**](10-polymorphism-and-virtual-functions/)
 11. [**Templates**](11-template/)
 12. [**Exception Handling**](12-exception-handling/)
 
